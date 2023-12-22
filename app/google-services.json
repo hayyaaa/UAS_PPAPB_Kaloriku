@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "755178844955",
+    "project_id": "kaloriku-c6de3",
+    "storage_bucket": "kaloriku-c6de3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755178844955:android:9418103669fffecaaed9be",
+        "android_client_info": {
+          "package_name": "com.android.kaloriku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBds6nByf173Mn7PhPSVoBE2T2yf5lNIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
